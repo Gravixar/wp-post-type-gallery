@@ -1,7 +1,7 @@
 ===  WP Post Type Gallery ===
 Contributors: fahdi
 Donate link: https://www.fahdmurtaza.com/
-Tags: comments, spam
+Tags: post, cpt, gallery, custom field
 Requires at least: 3.0.1
 Tested up to: 5.2.0
 Stable tag: 4.3
