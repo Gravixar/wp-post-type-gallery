@@ -1,4 +1,5 @@
 ===  WP Post Type Gallery ===
+
 Contributors: fahdi
 Donate link: https://www.fahdmurtaza.com/
 Tags: post, cpt, gallery, custom field
@@ -8,7 +9,7 @@ Stable tag: 4.3
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Allows you to add a gallery to any post type
 
 == Description ==
 
