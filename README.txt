@@ -1,4 +1,4 @@
-=== Plugin Name ===
+===  WP Post Type Gallery ===
 Contributors: fahdi
 Donate link: https://www.fahdmurtaza.com/
 Tags: comments, spam
